@@ -16,6 +16,7 @@
 
 - [ai-agents-for-beginners](https://github.com/ameyrupji-ai/ai-agents-for-beginners)
 - [awesome-llm-apps](https://github.com/ameyrupji-ai/awesome-llm-apps)
+- [learn-harness-engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
 
 ### Opensource Alternatives
 
