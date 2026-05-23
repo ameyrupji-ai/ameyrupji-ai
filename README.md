@@ -46,6 +46,7 @@
 - [superpowers](https://github.com/ameyrupji-ai/superpowers)
 - [app-store-screenshots](https://github.com/ameyrupji-ai/app-store-screenshots)
 - [graphify](https://github.com/ameyrupji-ai/graphify)
+- [hallmark](https://github.com/ameyrupji-ai/hallmark)
 
 ### Agent Memory
 
