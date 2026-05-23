@@ -8,7 +8,7 @@
 
 ## Useful Forked Repos
 
-> **Note** All the beloe mentioned repos are not endorced by me this is only a collection of repos that I have descovered during my research and not got a chance to try out each opf them. These are my folks for the repos and please vidit the official links of these repos through my folks.
+> **Note** All the beloe mentioned repos are not endorced by me this is only a collection of repos that I have descovered during my research and not got a chance to try out each opf them. These are my folks for the repos and please visit the official links of these repos through my folks.
 
 [Github Trending Repos](https://github.com/trending)
 
