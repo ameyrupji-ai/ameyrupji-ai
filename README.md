@@ -36,6 +36,7 @@
 
 - [ruflo](https://github.com/ameyrupji-ai/ruflo)
 - [paperclip](https://github.com/ameyrupji-ai/paperclip)
+  - [paperclipai/companies](https://github.com/paperclipai/companies)  
 - [agency-agents](https://github.com/ameyrupji-ai/agency-agents)
 - [gstack](https://github.com/ameyrupji-ai/gstack)
 - [agi](https://github.com/ameyrupji-ai/agi)
