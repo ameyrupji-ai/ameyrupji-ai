@@ -43,6 +43,7 @@
 
 ### Agent Skills
 
+- [skills repository](https://www.skills.sh)
 - [superpowers](https://github.com/ameyrupji-ai/superpowers)
 - [app-store-screenshots](https://github.com/ameyrupji-ai/app-store-screenshots)
 - [graphify](https://github.com/ameyrupji-ai/graphify)
