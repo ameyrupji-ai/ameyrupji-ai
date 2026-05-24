@@ -36,10 +36,13 @@
 
 - [ruflo](https://github.com/ameyrupji-ai/ruflo)
 - [paperclip](https://github.com/ameyrupji-ai/paperclip)
+- [agency-agents](https://github.com/ameyrupji-ai/agency-agents)
+- [gstack](https://github.com/ameyrupji-ai/gstack)
 - [agi](https://github.com/ameyrupji-ai/agi)
 - [agentscope](https://github.com/ameyrupji-ai/agentscope)
 - [Miro-Fish](https://github.com/ameyrupji-ai/Miro-Fish)
 - [claude-flow](https://github.com/ameyrupji-ai/claude-flow)
+
 
 ### Agent Skills
 
