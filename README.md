@@ -52,6 +52,7 @@
 - [app-store-screenshots](https://github.com/ameyrupji-ai/app-store-screenshots)
 - [graphify](https://github.com/ameyrupji-ai/graphify)
 - [hallmark](https://github.com/ameyrupji-ai/hallmark)
+- [agent-browser](https://github.com/ameyrupji-ai/agent-browser
 
 ### Agent Memory
 
