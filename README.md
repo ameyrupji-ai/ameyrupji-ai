@@ -64,3 +64,8 @@
 - [ml-intern](https://github.com/ameyrupji-ai/ml-intern)
 - [autoresearch](https://github.com/ameyrupji-ai/autoresearch)
 - [voicebox](https://github.com/ameyrupji-ai/voicebox)
+
+### Local LLM 
+
+- [omlx](https://github.com/ameyrupji-ai/omlx) - https://omlx.ai
+- [lmstudio-ai](https://github.com/lmstudio-ai) - https://lmstudio.ai `I am using this`
